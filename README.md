@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I sometimes work on SourcePawn plugins and .NET programs, such as [SPCode](https://github.com/SPCodeOrg/SPCode). <br>
+I sometimes work on SourcePawn plugins. <br>
+Currently maintaining [SPCode](https://github.com/SPCodeOrg/SPCode), a SourcePawn IDE. <br>
 Among my current skillset, you can find:
 - .NET (C#, VB.NET)
   - Desktop
