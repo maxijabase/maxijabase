@@ -6,7 +6,7 @@ Among my current skillset, you can find:
   - Desktop
   - ASP.NET Core APIs
   - Microservices
-- SourceMod Development (SourcePawn)
+- SourceMod Plugins Development (SourcePawn)
 - Angular (JavaScript, TypeScript)
 - SQL (MySQL, SQLite, Firebird)
 - Linux
