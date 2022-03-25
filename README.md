@@ -4,7 +4,7 @@ I'm a 21 year old programmer, currently developing my full-stack skills and <br>
 pursuing a software engineering degree at Universidad Tecnológica Nacional.
 
 Open-source wise, I work on SourceMod plugins and maintain [SPCode](https://github.com/SPCodeOrg/SPCode), a SourcePawn IDE. <br>
-Among my current skillset, you can find:
+I have experience with the following technologies:
 - .NET (C#, VB.NET)
   - Desktop (WinForms, WPF)
   - ASP.NET Core APIs
