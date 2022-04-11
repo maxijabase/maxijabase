@@ -7,8 +7,8 @@ Open-source wise, I work on SourceMod plugins and maintain [SPCode](https://gith
 I have experience with the following technologies:
 - .NET (C#, VB.NET)
   - Desktop (WinForms, WPF)
-  - ASP.NET Core APIs
-  - Microservices
+  - ASP.NET Core
+  - Blazor WebAssembly
 - SourceMod Plugins Development (SourcePawn)
 - Angular (JavaScript, TypeScript)
 - SQL (MySQL, SQLite, Firebird)
