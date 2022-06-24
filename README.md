@@ -1,7 +1,6 @@
 ### Welcome
 
-I'm a 21 year old programmer, currently developing my full-stack skills and <br>
-pursuing a software engineering degree at Universidad Tecnológica Nacional.
+I'm a 21 year old programmer, currently developing my full-stack skills.
 
 Open-source wise, I work on SourceMod plugins and maintain [SPCode](https://github.com/SPCodeOrg/SPCode), a SourcePawn IDE. <br>
 I have experience with the following technologies:
