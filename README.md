@@ -1,15 +1,6 @@
-### Welcome
+### Welcome to my GitHub page!
 
-I'm a 21 year old programmer, currently developing my full-stack skills.
+I'm a 21 year old software developer, currently working as a .NET Software Engineer.<br>
+I love hosting and contributing to open-source software, getting my hands on the latest gadgets and learning new frameworks to work with.
 
-Open-source wise, I work on SourceMod plugins and maintain [SPCode](https://github.com/SPCodeOrg/SPCode), a SourcePawn IDE. <br>
-I have experience with the following technologies:
-- .NET (C#, VB.NET)
-  - Desktop (WinForms, WPF)
-  - ASP.NET Core
-  - Blazor WebAssembly
-- SourceMod Plugins Development (SourcePawn)
-- Angular (JavaScript, TypeScript)
-- SQL (MySQL, SQLite, Firebird)
-- Linux
-- Docker
+Among my repositories you will mainly find an extensive amount of SourceMod plugins, and projects like [SPCode](https://github.com/SPCodeOrg) and [my portfolio/blog website](https://github.com/maxijabase/maxijabase.dev).
